@@ -2,6 +2,6 @@
     "name": "sasovo-tgimg",
     "compatibility_date":"2025-07-10",
     "assets": {
-        "directory": "./dist"
+        "directory": "./"
     }
 }
